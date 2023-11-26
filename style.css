@@ -1,0 +1,163 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bigcontainer {
+  background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+  background-size: cover;
+  height: 100vh;
+  width: 440px;
+}
+
+.bottomcontainer {
+  background-color: #ffffff;
+  height: 30vh;
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+  text-align: center;
+  font-family: "bree serif";
+}
+
+.heading {
+  font-size: 30px;
+  color: #f19116;
+  margin-top: 30px;
+}
+
+.button1 {
+  background-color: #f19116;
+  color: #ffffff;
+  border-radius: 15px;
+  height: 40px;
+  width: 100px;
+  border: 0px;
+}
+
+/* ***********************************************/
+.bigcontainer12 {
+  background-color: #222222;
+  height: 100vh;
+  width: 440px;
+  padding: 15px;
+}
+
+.box1 {
+  height: 23vh;
+  background-color: #ffffff;
+  margin-bottom: 15px;
+  border-radius: 10px;
+}
+
+.headding2 {
+  font-size: 30px;
+  color: #f19116;
+  font-family: "bree serif";
+  margin-top: 0px;
+}
+
+.button2 {
+  background-color: #f19116;
+  color: #ffffff;
+  font-family: "bree serif";
+  margin-top: 25px;
+  border-radius: 15px;
+  height: 40px;
+  width: 100px;
+  border: 0px;
+}
+
+.image1 {
+  height: 23vh;
+  width: 100px;
+  cursor: pointer;
+}
+
+.box-text {
+  margin: 10px;
+}
+
+.headding3 {
+  color: #0f0e46;
+  font-size: 25px;
+  font-family: "bree serif";
+  font-weight: 600;
+}
+
+.para {
+  font-size: 14px;
+  font-family: "bree serif";
+  font-weight: 400;
+}
+
+/* ********************************************************** */
+.bigcontainer123 {
+  height: 100vh;
+  width: 440px;
+}
+
+.image4 {
+  height: 40vh;
+}
+
+.bottom-container123 {
+  background-color: #222222;
+  height: 60vh;
+  font-family: "bree serif";
+  padding: 20px;
+  margin-top: 0px;
+}
+
+.heading4 {
+  font-size: 25px;
+  color: #f19116;
+}
+.loctionbox {
+  height: 5vh;
+}
+
+.locationimg {
+  height: 5vh;
+  padding: 5px;
+}
+.para1 {
+  font-size: 14px;
+  font-family: "bree serif";
+  font-weight: 400;
+  color: #ffffff;
+  padding: 5px;
+  margin-left: 5px;
+}
+.line {
+  border: 2px solid #ffffff;
+}
+.heading5 {
+  font-size: 25px;
+  color: #f19116;
+}
+.heading4 {
+  font-size: 30px;
+  color: #f19116;
+  margin-top: 30px;
+}
+.heading4 {
+  font-size: 30px;
+  color: #f19116;
+  margin-top: 30px;
+}
+.para2 {
+  font-size: 16px;
+  font-family: "bree serif";
+  font-weight: 400;
+  color: #ffffff;
+  padding-right: 30px;
+  margin-left: 5px;
+}
+.button3 {
+  width: 100px;
+  background-color: #f19116;
+  color: #ffffff;
+  font-family: "bree serif";
+  margin-top: 25px;
+  margin-right: 20px;
+  border-radius: 15px;
+  height: 40px;
+  border: 0px;
+}
